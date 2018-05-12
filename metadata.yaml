@@ -1,0 +1,28 @@
+_repo: Manuel-complet-des-fabricans-de-chapeaux-en-tous-genres_18806
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fontenelle, Jean-Sébastien-Eugène Julia de
+    gutenberg_agent_id: '8266'
+    url: http://www.gutenberg.org/2009/agents/8266
+description: ''
+gutenberg_bookshelf:
+- FR Métiers et Artisanat
+- Crafts
+gutenberg_issued: '2006-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18806'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hat trade'
+- !lcc 'TS'
+- !lcsh 'Hats'
+title: Manuel complet des fabricans de chapeaux en tous genres
+url: http://www.gutenberg.org/ebooks/18806
